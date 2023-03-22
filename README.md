@@ -11,3 +11,6 @@ dedicando-me para eu crescer profissionalmente na área.
 
 <br>
 
+<div display="flex"  align= "center">
+<img width=50%; src="https://github.com/Michaeleduardoo/My-portfolio/blob/master/image/imgGit.png?raw=true">
+</div>
