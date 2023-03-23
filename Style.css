@@ -1002,7 +1002,7 @@ h4::before {
 }
 
 #title-h5 {
-    
+
     font-size: 25px;
     padding: 20px;
 }
@@ -1044,7 +1044,7 @@ h4::before {
     }
 
     .footer-col ul li a:hover {
-        
+
         padding-left: 0;
     }
 
@@ -1146,7 +1146,7 @@ h4::before {
 
 
     #summary {
-       
+
         margin-left: 0;
         display: block;
         text-align: center;
@@ -1172,14 +1172,14 @@ h4::before {
         width: 70%;
     }
 
-     .card:hover {
+    .card:hover {
         -moz-transform: none;
         -webkit-transform: none;
         transform: none;
         box-shadow: 0px 0px 30px 1px rgba(0, 0, 119, 0.30);
     }
 
-    .h3-title{
+    .h3-title {
         padding-top: 15px;
     }
 
@@ -1195,7 +1195,7 @@ h4::before {
         padding: 1px;
     }
 
-    
+
 
     #technological {
         margin-top: 0;
@@ -1268,19 +1268,19 @@ h4::before {
         padding: 0px;
     }
 
-    #title-div{
+    #title-div {
         width: 85%;
         margin-left: 0;
         display: block;
         margin-left: auto;
         margin-right: auto;
         height: 100%;
-        
+
     }
 
 
     #title-h5 {
-        
+
         font-size: 20px;
     }
 
@@ -1290,30 +1290,31 @@ h4::before {
 
     /* project*/
 
-    #form-details{
+    #form-details {
         padding: 1px;
-        
+
     }
 
-    #contact{
+    #contact {
         padding: 20px;
         margin-bottom: -1px;
     }
 
-    .littleBoxes{
+    .littleBoxes {
         display: block;
     }
 
     .littleBoxes .cardinals .face.face1 {
         display: block;
-    margin-left: auto;
-    margin-right: auto;
+        margin-left: auto;
+        margin-right: auto;
 
     }
-    .littleBoxes .cardinals:hover .face.face1{
+
+    .littleBoxes .cardinals:hover .face.face1 {
         display: block;
-    margin-left: auto;
-    margin-right: auto;
+        margin-left: auto;
+        margin-right: auto;
 
     }
 
@@ -1326,7 +1327,7 @@ h4::before {
 
     /*contato*/
 
-    .main-title{
+    .main-title {
         font-size: 30px;
         margin-top: 7px;
     }
@@ -1336,70 +1337,72 @@ h4::before {
         margin-top: 30px;
         padding-left: 0;
     }
-    
-    .main-title{
+
+    .main-title {
 
         display: block;
         margin-left: auto;
         margin-right: auto;
-        
+
 
     }
 
-    #form{
+    #form {
         display: block;
         margin-left: auto;
         margin-right: auto;
         width: 90%;
     }
 
-    .form-h4{
+    .form-h4 {
         text-align: center;
         margin-bottom: 0;
     }
 
-    .form-paragraph{
+    .form-paragraph {
         text-align: center;
         width: 100%;
+        padding-left: 15px;
+        padding-right: 15px;
     }
 
-    #info{
+    #info {
         justify-content: center;
     }
 
-    #call{
+    #call {
         justify-content: center;
     }
 
-    #mc-dev{
+    #mc-dev {
         font-size: 15px;
     }
 
-   
+
 }
 
 
 
 @media all and (max-width: 280px) {
-    
+
     h1 {
         font-size: 60px;
-        
+
     }
 
     #image-michael {
         width: 80%;
     }
 
-    .h2-title{
+    .h2-title {
         font-size: 40px;
     }
 
-    #technological{
+    #technological {
         font-size: 40px;
     }
 
-    .icone-li::before{
+    .icone-li::before {
         font-size: 30px;
     }
 
@@ -1407,12 +1410,12 @@ h4::before {
 
     .title-main {
         font-size: 45px;
-       
+
     }
 
     /*Project*/
 
-    .littleBoxes .cardinals .face.face1{
+    .littleBoxes .cardinals .face.face1 {
         width: 85%;
     }
 
@@ -1426,10 +1429,11 @@ h4::before {
     }
 
 
-    iframe{
+    iframe {
         width: 120px;
     }
-    #mc-dev{
+
+    #mc-dev {
         font-size: 12px;
     }
 }
