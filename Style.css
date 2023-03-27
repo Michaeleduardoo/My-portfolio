@@ -532,7 +532,8 @@ details[open] summary:before {
 }
 
 #form {
-    margin-left: 600px;
+    
+    margin-left: 45%;
     border: 1px solid #000;
     background-color: #EEF7FF;
     width: 50%;
@@ -697,7 +698,7 @@ label {
 #falls {
     margin: 0;
     padding: 0;
-    min-height: 100vh;
+ 
     background: #EEF7FF;
     display: flex;
     justify-content: center;
@@ -710,11 +711,10 @@ label {
 #falls-tow {
     margin: 0;
     padding: 0;
-    min-height: 100vh;
     background: #EEF7FF;
     display: flex;
     justify-content: center;
-    margin-top: -300px;
+   
 
 
 }
@@ -725,7 +725,7 @@ label {
     display: flex;
     justify-content: space-between;
     margin-top: 30px;
-    margin-bottom: 222px;
+   
 }
 
 .littleBoxes .cardinals {
@@ -825,20 +825,17 @@ label {
 
 #button-project {
 
-    background-color: transparent;
-
-    margin-top: -200px;
-    position: absolute;
+    background-color: #EEF7FF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 70px;
     padding-bottom: 20px;
 
 
 }
 
-#button-sub {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
+
 
 .button-pro {
     width: 100px;
@@ -990,12 +987,16 @@ h4::before {
 }
 
 #title-div {
-    margin-top: 20px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
     margin-bottom: 20px;
-    width: 700px;
-    height: 630px;
+    width: 60%;
     text-align: center;
-    margin-left: 100px;
+    margin-left: 70px;
+    margin-right: 70px;
     border: 1px solid #000;
     border-radius: 20px;
     box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
