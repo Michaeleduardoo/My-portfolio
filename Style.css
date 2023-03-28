@@ -509,7 +509,7 @@ details[open] summary:before {
 
 #form-information {
     display: inline-block;
-    padding-left: 150px;
+    padding-left: 10%;
     margin-top: 150px;
     position: absolute;
 
@@ -982,7 +982,7 @@ h4::before {
 
 #michael-img {
     width: 448px;
-    height: 700px;
+    
 
 }
 
@@ -993,10 +993,9 @@ h4::before {
     align-items: center;
     margin-top: 15px;
     margin-bottom: 20px;
-    width: 60%;
     text-align: center;
-    margin-left: 70px;
-    margin-right: 70px;
+    margin-left: 100px;
+    margin-right: 100px;
     border: 1px solid #000;
     border-radius: 20px;
     box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
@@ -1004,7 +1003,7 @@ h4::before {
 
 #title-h5 {
 
-    font-size: 25px;
+    font-size: 28px;
     padding: 20px;
 }
 
